@@ -14,14 +14,24 @@ npm install
 
 ## Usage
 
+>> To start the app
 ```sh
 npm run start
 ```
 
-## Run tests
-
+>> To resize images :
 ```sh
-npm run test
+npm run resize
+```
+
+>> To compress images : 
+```sh
+npm run compress
+```
+
+>> To transform text to image : 
+```sh
+npm run txt2img
 ```
 
 ## Author
