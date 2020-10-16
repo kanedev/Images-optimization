@@ -1,0 +1,26 @@
+{
+  "name": "createimage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "resizeimg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js",
+    "resize": "node ./resizeimg.js",
+    "compress": "node ./compressimg.js",
+    "txt2png": "node ./txt2png.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "gifsicle": "^5.1.0",
+    "jimp": "^0.16.1",
+    "pngquant-bin": "^6.0.0",
+    "sharp": "^0.26.2",
+    "text2png": "^2.3.0"
+  },
+  "devDependencies": {
+    "compress-images": "^1.9.5"
+  }
+}
