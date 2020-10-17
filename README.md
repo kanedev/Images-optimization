@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to createimage 👋</h1>
+<h1 align="center">Welcome to :  images-optimization 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -6,70 +6,115 @@
   </a>
 </p>
 
-⭐ Star us on GitHub — it helps! ☺️
+
 
 <p>A beautiful example project demonstrating how to build ... </p>
 
-<p align="center">
 ![](name-of-giphy.gif)
-</p>
 
 
-## Table of content
 
+## 📖 Table of content
+
+- [Demo](#demo)
 - [Installation](#install)
-- [Usage](#usage)
-    <!-- - [](#)
-        - [](#) -->
+- [Features](#feathers)
+- [Contributing](#contributing)
 - [License](#license)
 - [Links](#links)
+- [Author](#author)
 
-## Install
+
+
+## 🚀 Install
 
 ```sh
-npm install
+$ git clone https://github.com/kanedev/images-optimization
+$ cd createimage
+$ yarn 
+$ yarn start 
 ```
 
-## Usage
 
->> To start the app
-```sh
-npm run start
-```
 
->> To resize images :
+## :sparkles: Features
+
+⚡️  To resize images :
+
 ```sh
 npm run resize
 ```
 
->> To compress images : 
+⚡️ To compress images :
+
 ```sh
 npm run compress
 ```
 
->> To transform text to image : 
+⚡️ To transform text to image : 
+
 ```sh
 npm run txt2img
 ```
 
-## License
 
-This project is licensed under the terms of the MIT Open Source license and is available for free.
 
 ## Links
 
-    Web site
-    Documentation
-    Forum
-    Issue tracker
-    Source code
+This project is licensed under the terms of the MIT Open Source license and is available for free.
 
 
-## Show your support
 
-Give a ⭐️ if this project helped you!
+## Links
+
+- Web site
+
+- Documentation
+
+- Forum
+
+- Issue tracker
+
+- Source code
+
+  
+
+## 💉 Contributing
+
+1. Fork it (<https://github.com/kanedev/images-optimization/fork>)
+
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+
+4. Push to the branch (`git push origin feature/fooBar`)
+
+5. Create a new Pull Request
+
+   
+
+ ## 👤 Author
+
+ **Walid**
 
 
- ## Author
 
-👤 **walid**
+## 🚦License
+
+This project is licensed under the terms of the MIT Open Source license and is available for free.
+
+
+
+##  👋 Show your support 🙏
+
+Give me a ⭐  on GitHub — it helps ! ❤️
+
+
+
+## 💉 Contributing
+
+1. Fork it (<https://github.com/yourname/yourproject/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
