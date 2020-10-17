@@ -107,7 +107,7 @@ This project is licensed under the terms of the MIT Open Source license and is a
 5. Submit Pull Request with comprehensive description of changes
 
  ## 🎯 Credtis
- 
+ This software uses the following open source packages:
 - [Nodejs](#https://nodejs.org)
 
 
