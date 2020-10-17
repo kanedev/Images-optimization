@@ -65,7 +65,7 @@ This project is licensed under the terms of the MIT Open Source license and is a
 
 
 
-## Links
+## ⛓ Links
 
 - Web site
 
@@ -97,7 +97,13 @@ This project is licensed under the terms of the MIT Open Source license and is a
 
  **Walid**
 
+## 💉 Contributing
 
+1. Fork it (<https://github.com/yourname/yourproject/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
 
 ## 🚦License
 
@@ -111,10 +117,3 @@ Give me a ⭐  on GitHub — it helps ! ❤️
 
 
 
-## 💉 Contributing
-
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
