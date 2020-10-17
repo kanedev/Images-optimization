@@ -20,6 +20,7 @@
 - [Installation](#install)
 - [Features](#feathers)
 - [Contributing](#contributing)
+- [Credits](#credits)
 - [License](#license)
 - [Links](#links)
 - [Author](#author)
@@ -103,7 +104,12 @@ This project is licensed under the terms of the MIT Open Source license and is a
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
+5. Submit Pull Request with comprehensive description of changes
+
+ ## 🎯 Credtis
+ 
+- [Nodejs](#https://nodejs.org)
+
 
 ## 🚦License
 
@@ -113,7 +119,7 @@ This project is licensed under the terms of the MIT Open Source license and is a
 
 ##  👋 Show your support 🙏
 
-Give me a ⭐  on GitHub — it helps ! ❤️
+This is free, open-source software. If you'd like to support the development of future projects, or say thanks for this one, you can donate here :
 
-
+Or, give me a ⭐  on GitHub — it helps ! ❤️
 
