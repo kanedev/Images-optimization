@@ -37,7 +37,6 @@ $ yarn start
 ```
 
 
-
 ## :sparkles: Features
 
 ⚡️  To resize images :
@@ -59,13 +58,6 @@ npm run txt2img
 ```
 
 
-
-## Links
-
-This project is licensed under the terms of the MIT Open Source license and is available for free.
-
-
-
 ## ⛓ Links
 
 - Web site
@@ -78,7 +70,6 @@ This project is licensed under the terms of the MIT Open Source license and is a
 
 - Source code
 
-  
 
 ## 💉 Contributing
 
@@ -91,8 +82,7 @@ This project is licensed under the terms of the MIT Open Source license and is a
 4. Push to the branch (`git push origin feature/fooBar`)
 
 5. Create a new Pull Request
-
-   
+  
 
  ## 👤 Author
 
@@ -111,13 +101,13 @@ This project is licensed under the terms of the MIT Open Source license and is a
 - [Nodejs](#https://nodejs.org)
 
 
-## 🚦License
+## 🚦 License
 
 This project is licensed under the terms of the MIT Open Source license and is available for free.
 
 
 
-##  👋 Show your support 🙏
+## 👋 Show your support 🙏
 
 This is free, open-source software. If you'd like to support the development of future projects, or say thanks for this one, you can donate here :
 
