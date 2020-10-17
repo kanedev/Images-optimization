@@ -5,9 +5,24 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-red.svg" />
   </a>
 </p>
-A beautiful example project demonstrating how to build ... 
 
+⭐ Star us on GitHub — it helps! ☺️
+
+<p>A beautiful example project demonstrating how to build ... </p>
+
+<p align="center">
 ![](name-of-giphy.gif)
+</p>
+
+
+## Table of content
+
+- [Installation](#install)
+- [Usage](#usage)
+    <!-- - [](#)
+        - [](#) -->
+- [License](#license)
+- [Links](#links)
 
 ## Install
 
@@ -37,13 +52,24 @@ npm run compress
 npm run txt2img
 ```
 
-## Author
+## License
 
-👤 **walid**
+This project is licensed under the terms of the MIT Open Source license and is available for free.
+
+## Links
+
+    Web site
+    Documentation
+    Forum
+    Issue tracker
+    Source code
 
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
- 
+
+ ## Author
+
+👤 **walid**
