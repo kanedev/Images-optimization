@@ -14,7 +14,6 @@ Be sure to ⭐ my repo so you can keep up to date on any daily progress ! 😉
 ![](name-of-giphy.gif)
 
 
-
 ## 📖 Table of content
 
 - [Demo](#demo)
